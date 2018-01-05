@@ -1,2 +1,8 @@
 # Ignore MacOS files
 .DS_Store
+
+# Ignore VS Code files
+.vscode/*
+.classpath
+.project
+.settings/
